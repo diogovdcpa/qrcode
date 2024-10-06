@@ -1,2 +1,2 @@
-# qrcdoe
+# qrcode
 qrcode generator
